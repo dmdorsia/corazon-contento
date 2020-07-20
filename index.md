@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dmdorsia/corazon-contento/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<h2>Madrid, 13 de julio de 2020.</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>Muy Sr/a nuestro:</p>
 
-```markdown
-Syntax highlighted code block
+<p>Hemos tenido conocimiento que la Clínica con la que contrató, CORAZÓN CONTENTO S.L.., ha cerrado sus instalaciones, desatendiendo sus obligaciones contractuales con sus pacientes, y dejando sin prestar los tratamientos contratados sin previa comunicación al efecto, ni designación de contacto de referencia.  
+Ante la omisión de la clínica CORAZÓN CONTENTO, S.L. en el cumplimiento de las obligaciones contractuales que le corresponden, desde el Departamento de Calidad  le comunicamos que puede realizar el tratamiento contratado en la clínica sita en Madrid, C/ Sta Engracia 153, titularidad de la mercantil VIDEA BIEN, SL, que está autorizada para explotar la marca DORSIA CLÍNICAS DE ESTÉTICA, con el fin de que dicha sociedad preste el servicio pendiente de suministrar por parte de CORAZÓN CONTENTO, SL, y que se reserva el derecho de repetir frente a CORAZÓN CONTENTO, SL el coste del servicio prestado a sus pacientes. 
+Le informamos que la clínica que prestará el servicio no tiene ninguna coincidencia en socios o administradores con la sociedad Corazón Contento, S.L. y que es totalmente independiente de la sociedad Corazón Contento, S.L. </p>
 
-# Header 1
-## Header 2
-### Header 3
+<p>Atentamente</p>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dmdorsia/corazon-contento/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2>DEPARTAMENTO DE CALIDAD.</h2>
